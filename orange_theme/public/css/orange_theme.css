@@ -216,5 +216,5 @@ input[type="checkbox"] {
     border: 3px solid #ffffff;
 }
 .btn.btn-primary, div#driver-popover-item .driver-popover-footer button.btn-primary, div#driver-popover-item .driver-popover-footer button.driver-next-btn {
-    background-color: blue !important;
+    background-color: #545454  !important;
 }
