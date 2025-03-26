@@ -1,9 +1,9 @@
 
 body[data-path="login"] {
-    background-image: url(/files/background.png);
+    background-image: url(/assets/orange_theme/image/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: #095d81fa;
+    background-color: #ff7402fa;
   }
 body[data-path="login"] > nav {
     display: none !important;
@@ -16,17 +16,17 @@ body[data-path="login"] .page-card-head img {
     text-shadow: -2px 3px 2px rgb(2 50 80);
 }
 .for-login .page-card, .for-forgot .page-card, .for-login-with-email-link .page-card, .for-signup .page-card, .for-email-login .page-card {
-    background-color: #c7c7c7 !important;
+    background-color: #ff834a !important;
     border-radius: 34px !important;
-    border: 3px solid #3b3b3b !important;
+    border: 3px solid #ff7a45 !important;
 }
 .main-section{
     background-color: #d4d4d4 !important;
 }
 .navbar {
-    background: #095d81fa;
+    background: #eb5e00fa;
     height: 69px;
-    border-bottom: 5px solid #90aec3;
+    border-bottom: 5px solid #ff7402fa;
 }
 .navbar-home img {
     max-height: 50px !important;
@@ -39,7 +39,7 @@ body[data-path="login"] .page-card-head img {
     font-weight: bold; 
 }
 #navbar-breadcrumbs > li.disabled {
-    color: #aacdfbd1;
+    color: #ff792bd1;
 }
 .navbar .navbar-nav .nav-link {
      color: #000000 !important;
@@ -56,18 +56,18 @@ body[data-path="login"] .page-card-head img {
     background-color: #ffffff;
 }
 .quick-list-widget-box{
-    background-color: #95b1c445 !important;
-    border: 1px solid #078cc0  !important;
+    background-color: #c4a29545 !important;
+    border: 1px solid #f34915  !important;
 }
 .widget.shortcut-widget-box {
     text-decoration: underline !important;
     border-radius: 15px !important;
-    background-color: #91bcc952 !important;
-    border-bottom: 3px solid #078cc0 !important;
+    background-color: #c4a29545 !important;
+    border-bottom: 3px solid #f34915 !important;
     align-items: center !important;
 }
 .widget.links-widget-box .link-item .link-content {
-    border-bottom: 3px solid #078cc0  !important;
+    border-bottom: 3px solid #f34915  !important;
     padding: 9px !important;
     margin-bottom: 10px !important;
     border-radius: 15px !important;
@@ -96,7 +96,7 @@ body[data-path="login"] .page-card-head img {
 	padding-top: 10px
 }
 .form-tabs-list .form-tabs .nav-item  {
-    background: #d7dfe12e;
+    background: #e1dad72e;
     margin-top: 4px;
     margin-right: 2px;
     margin-left: 2px;
@@ -108,7 +108,7 @@ body[data-path="login"] .page-card-head img {
     border: 1px solid #00000026;
 }
 .form-tabs-list .form-tabs .nav-item .nav-link.active {
-    border-bottom: 3px solid #095d81fa;
+    border-bottom: 3px solid #810909fa;
     color: #000000;
     font-weight: 900 !important;
 }
@@ -139,7 +139,7 @@ body[data-path="login"] .page-card-head img {
 }
 .section-head {
     background-color: #54657029 !important;
-    border-bottom: 2px solid #095d81fa !important;
+    border-bottom: 2px solid #e23a06fa !important;
     border-top-left-radius: 10px !important;
     border-top-right-radius: 10px !important;
 }
@@ -147,27 +147,27 @@ body[data-path="login"] .page-card-head img {
     background-color: #ffffff00 !important;
 }
 .form-in-grid {
-    border: 3px solid #095d81fa !important;
+    border: 3px solid #e23a06fa !important;
 }
 .grid-footer {
     background-color: #ffffff00 !important;
 }
 .grid-heading-row {
-    border-bottom: 1px solid #095d81fa;
+    border-bottom: 1px solid #e23a06fa;
     color: #141414;
     background-color: #8ab2e742;
     height: 32px;
  
 }
 .standard-sidebar-item.selected {
-    background-color: #91bcc952 !important;
-    border-left: 6px solid #078cc0;
+    background-color: #b9999552 !important;
+    border-left: 6px solid #9b01b9;
 }
 .standard-sidebar-item {
-    --icon-stroke: #078cc0;
+    --icon-stroke: #9b01b9;
 }
 .desk-sidebar-item:hover{
-    background-color: #91bcc952  !important;
+    background-color: #9b01b9  !important;
 }
 .new-timeline .timeline-item {
     background-color: #fef0ff00 !important;
@@ -179,11 +179,11 @@ input[type="checkbox"] {
     background-color: white;
 }
 .ce-header  {
-    border-bottom: 1px solid #05558bde !important;
+    border-bottom: 1px solid #8b2405de !important;
     padding: 15px !important;
 }  
 .quick-list-widget-box >.widget-head {
-	border: solid 1px #095d81fa;
+	border: solid 1px #e23a06fa;
 	border-top-left-radius: 10px !important;
     border-top-right-radius: 10px !important;
 	background-color: white;
