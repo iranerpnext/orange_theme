@@ -19,15 +19,15 @@ body[data-path="login"] .page-card-head img {
     background-color: #ffa773a6 !important;
     border-radius: 23px !important;
     border: 3px solid #ffffff !important;
-    box-shadow: -4px 4px 14px 1px rgb(139 139 139);
+    box-shadow: 1px 5px 11px 3px rgb(225 77 7 / 66%);
 }
 .main-section{
     background-color: #d4d4d4 !important;
 }
 .navbar {
-    background: #fd8219f2;
+    background: #ffd7bb;
     height: 69px;
-    border-bottom: 4px solid #ffe2b6;
+    border-bottom: 4px solid #ff8117;
 }
 .navbar-home img {
     max-height: 50px !important;
@@ -57,25 +57,23 @@ body[data-path="login"] .page-card-head img {
     background-color: #ffb42a52;
 }
 .quick-list-widget-box{
-    background-color: #ffb42a52 !important;
-    border: 1px solid #ff8014fa  !important;
+    background-color: #ffe8bd52 !important;
+    border-bottom: 3px solid #ff8117 !important;
 }
 .widget.shortcut-widget-box {
     text-decoration: underline !important;
     border-radius: 15px !important;
-    background-color: #ffb42a52 !important;
-    border-bottom: 3px solid #ff8014fa !important;
+    background-color: #ffe8bd52 !important;
+    border-bottom: 3px solid #ff8117 !important;
     align-items: center !important;
 }
 .widget.links-widget-box .link-item .link-content {
-    border-bottom: 3px solid #ff8014fa  !important;
+
     padding: 9px !important;
     margin-bottom: 10px !important;
     border-radius: 15px !important;
-    background-color: #ffb42a52 !important;
-}
-.spacer {
-    background-color: #ffffff00 !important;
+    background-color: #ffe8bd52 !important;
+    border-bottom: 3px solid #ff8117 !important;
 }
 .grid-body .data-row {
     font-size: 11px;
@@ -156,7 +154,7 @@ body[data-path="login"] .page-card-head img {
 .grid-heading-row {
     border-bottom: 1px solid #ff8014fa;
     color: #141414;
-    background-color: #8ab2e742;
+    background-color: #ffe7bba3;
     height: 32px;
  
 }
@@ -197,13 +195,13 @@ input[type="checkbox"] {
     padding-right: 15px !important;
 }
 .page-form {
-    background-color: #91919142;
-    border-bottom: solid 1px #3f3f3f;
+    background-color: #ffd7bb;
+    border-bottom: solid 1px #ff8014fa;
     border-radius: 0px !important;
 }
 .list-paging-area {
-    border-top: solid 1px #3f3f3f;
-    background-color: #91919142;
+    background-color: #ffd7bb;
+    border-bottom: solid 1px #ff8014fa;
     margin-left: -10px;
     margin-right: -10px;
     border-radius: 0px !important;
@@ -213,10 +211,10 @@ input[type="checkbox"] {
     border-radius: 0px !important;
 }
 .avatar .standard-image {
-    background-color: #313334 !important;
+    background-color: #ff8117 !important;
     color: #fdffff !important;
-    border: 3px solid #ffffff94;
+    border: 3px solid #ffffff;
 }
 .btn.btn-primary, div#driver-popover-item .driver-popover-footer button.btn-primary, div#driver-popover-item .driver-popover-footer button.driver-next-btn {
-    background-color: #3f3f3f !important;
+    background-color: blue !important;
 }
